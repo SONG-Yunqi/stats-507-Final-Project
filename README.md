@@ -18,4 +18,4 @@ curacy, F1 score, and AUC metrics. Among all models, BERT
 
  In this repository, there is a 'final_project.ipynb' file, which contains the python code for the project. And there is a pdf file containing the summary report for my project.
 
- Warning: 
+ Warning: The code uses the module 'gensim', you may have to **downgrade numpy and scipy**. After install the modules, you may have to **restart**. Otherwise, you may encounter ImportError.
